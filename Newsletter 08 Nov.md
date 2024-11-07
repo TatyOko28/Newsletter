@@ -12,7 +12,7 @@
 <a href="https://github.com/GSSoC24/Contributor/blob/master/LICENSE"><img src="https://img.shields.io/github/license/GSSoC24/Contributor?color=2b9348" alt="License Badge"/></a>
 [![](https://visitcount.itsvg.in/api?id=contributor-gssoc&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-
+</div>
 # 💼 Why Do Interviewers Grill Us with This Question Anyway?
 
 ### Picture this: you're in the hot seat, and the interviewer pops the million-dollar question. **"Why should we hire you?"** They’re not just seeing how well you squirm—they want to see if you're the perfect fit for the role and company! 🌟 This is your moment to give them a short elevator pitch and sell yourself like a pro! 🕴️
@@ -72,3 +72,18 @@ It’s time to let those numbers do the talking! 💬 Highlight past achievement
 ✨ **Wrap It All Together** ✨
 
 Remember, answering "Why should we hire you?" is your opportunity to shine! ☀️ Take a deep breath, be genuine, and serve up the best version of yourself. Good luck! 🍀
+
+<div align="center">
+
+Happy reading and here’s to your career success! 🎉
+<br>
+### recode-hive 2024
+
+[Website](https://recodehive.com/) | [Instagram](https://www.instagram.com/sanjay.viswa_/) | [LinkedIn](https://www.linkedin.com/in/sanjay-k-v/) | [Twitter](https://x.com/sanjay_kv_) | [YouTube](https://www.youtube.com/@RecodeHive)<br>
+**🔔 Don’t miss a beat!** <br>
+  Subscribe to receive our newsletter directly in your inbox for the latest career insights & tailored to your journey.<br>
+[![Subscribe to Our Newsletter](https://img.shields.io/badge/Subscribe%20to%20Our%20Newsletter-%F0%9F%93%A9-blue)](https://recodehive.substack.com/) 
+
+</div>
+
+
