@@ -47,8 +47,8 @@ Happy reading and here’s to your career success! 🎉
 
 [Website](https://recodehive.com/) | [Instagram](https://www.instagram.com/sanjay.viswa_/) | [LinkedIn](https://www.linkedin.com/in/sanjay-k-v/) | [Twitter](https://x.com/sanjay_kv_) | [YouTube](https://www.youtube.com/@RecodeHive)<br>
 **🔔 Don’t miss a beat!** <br>
-  Subscribe to receive our newsletter directly in your inbox for the latest career insights and tips tailored to your journey.
-[![Subscribe to Our Newsletter](https://img.shields.io/badge/Subscribe%20to%20Our%20Newsletter-%F0%9F%93%A9-blue)](https://recodehive.substack.com/)
+  Subscribe to receive our newsletter directly in your inbox for the latest career insights & tailored to your journey.<br>
+[![Subscribe to Our Newsletter](https://img.shields.io/badge/Subscribe%20to%20Our%20Newsletter-%F0%9F%93%A9-blue)](https://recodehive.substack.com/) 
 
 </div>
 
